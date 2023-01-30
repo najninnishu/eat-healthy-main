@@ -1,0 +1,46 @@
+body{
+font-family: 'Roboto', sans-serif;
+margin:0;
+background-color:grey;
+}
+h1{
+    font-size:30px;
+}
+h6{
+font-size:15px;
+}
+.color{
+    color: orangered;
+}
+.half-width{
+    width:40%;
+    float:left;
+    padding:2%;
+    margin-left:2%;
+}
+h4{
+    color: orangered;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.half-width img{
+    width:80%;
+}
+p{
+    font: size 10px;
+    text-align: center;
+}
+h3{
+    color: orangered;
+
+}
+.food-network{
+    background-image: url(eat-healthy-main/images/shapes/7.png);
+    
+}
+
+section{
+    height: 50px;
+    padding-bottom:120px;
+}
